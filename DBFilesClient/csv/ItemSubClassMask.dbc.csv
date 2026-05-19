@@ -1,0 +1,5 @@
+flags,long,None,None,str,None,None,None,None,None,None,None,None,None,None,None,None,None,flags,
+0x2,173555,,,"Arme de mêlée",,,,,,,,,,,,,,0xFF01FE,
+0x4,96,,,"Bouclier",,,,,,,,,,,,,,0xFF01FE,
+0x2,262156,,,"Arme à distance",,,,,,,,,,,,,,0xFF01FE,
+0x2,41105,,,"Arme de mêlée à une main",,,,,,,,,,,,,,0xFF01FE,

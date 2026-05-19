@@ -1,0 +1,7 @@
+long,long,float,float,float,None,None,str,None,None,None,None,None,None,None,None,None,None,None,None,None,flags,float,
+1,10000,2.0,-1.0,8.0,,,"En forme",,,,,,,,,,,,,,0xFF01FE,12.0,
+2,13333,1.0,-1.0,6.0,,,"Normal",,,,,,,,,,,,,,0xFF01FE,0.0,
+3,20000,1.0,8.0,4.0,,,"XXXFatigué",,,,,,,,,,,,,,0xFF01FE,0.0,
+4,40000,0.5,4.0,2.0,,,"XXXFatigué",,,,,,,,,,,,,,0xFF01FE,0.0,
+5,-1,0.25,0.0,0.0,,,"XXXEpuisé",,,,,,,,,,,,,,0xFF01FE,0.0,
+6,10000,2.0,-1.0,0.0,,,"Parrainez un ami",,,,,,,,,,,,,,0xFF01FE,0.0,
