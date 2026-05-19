@@ -299,10 +299,11 @@ EonsDBC provides a comprehensive collection of Data Base Client (DBC) files for 
 
 ## Usage
 
-These DBC files are intended for use with TrinityCore 3.3.5a WotLK private servers. To integrate them into your server:
+These DBC files are intended for use with TrinityCore 3.3.5a WotLK private servers. To integrate them into your server & client:
 
 1. Download the desired DBC files from the GitHub repository
-2. Place them in your `DBFilesClient/` directory
+2. Place them in your `DBFilesClient/` directory client
+3. Place them in your `dbc/` directory server
 
 Adjust any custom modifications as needed for your server configuration
 
