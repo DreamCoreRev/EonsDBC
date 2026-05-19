@@ -1,5 +1,4 @@
 # EonsDBC
-**Public Source DBC Files for WoW 3.3.5a (Build 12340)**
 
 ---
 
@@ -303,9 +302,9 @@ EonsDBC provides a comprehensive collection of Data Base Client (DBC) files for 
 These DBC files are intended for use with TrinityCore 3.3.5a WotLK private servers. To integrate them into your server:
 
 1. Download the desired DBC files from the GitHub repository
-2. Place them in your `DBFilesClient/dbc/` directory
-3. Recompile the server or reload affected modules
-4. Adjust any custom modifications as needed for your server configuration
+2. Place them in your `DBFilesClient/` directory
+
+Adjust any custom modifications as needed for your server configuration
 
 ---
 
@@ -317,12 +316,6 @@ These DBC files are intended for use with TrinityCore 3.3.5a WotLK private serve
 
 ---
 
-## License
-
-Please refer to the repository's LICENSE file for licensing information.
-
----
-
 ## Support
 
-For issues or questions regarding these DBC files, please refer to the TrinityCore documentation or open an issue on the GitHub repository.
+For issues or questions regarding these DBC files, please refer to the [TrinityCore] (https://trinitycore.info/files/DBC/335/DBC) documentation or open an issue on the GitHub repository.
