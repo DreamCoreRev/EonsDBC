@@ -318,4 +318,4 @@ Adjust any custom modifications as needed for your server configuration
 
 ## Support
 
-For issues or questions regarding these DBC files, please refer to the [TrinityCore] (https://trinitycore.info/files/DBC/335/DBC) documentation or open an issue on the GitHub repository.
+For issues or questions regarding these DBC files, please refer to the [TrinityCore](https://trinitycore.info/files/DBC/335/DBC) documentation or open an issue on the GitHub repository.
